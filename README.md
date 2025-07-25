@@ -3,7 +3,6 @@
 ## 🧩 Integrantes
 - Mateo Moran 
 - Elkin Diaz 
-- *(...)*
 
 ## 🎯 Objetivo General
 Desarrollar una aplicación funcional (backend y frontend) en Python que aplique un modelo de Inteligencia Artificial
