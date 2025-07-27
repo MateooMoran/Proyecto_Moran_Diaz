@@ -18,6 +18,8 @@ Desarrollar una aplicación funcional (backend y frontend) en Python que aplique
 
 ## 🗂️ Documentacion del sistema
 
+Link: https://epnecuador-my.sharepoint.com/:f:/g/personal/brandon_moran_epn_edu_ec/EgYMpMq5qmNDvmUD0mXYMm8BJIXbUsQWYglU5tQo-VJuEw?e=hK9iRu
+
 
 ## 🎥 Video Tutorial
 > *(enlace)*
