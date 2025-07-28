@@ -23,5 +23,5 @@ Desarrollar una aplicación funcional (backend y frontend) en Python que aplique
 
 
 ## 🎥 Video Tutorial
-> *(enlace)*
+[Enlace](https://www.youtube.com/watch?v=G5QgShePopU)
 
