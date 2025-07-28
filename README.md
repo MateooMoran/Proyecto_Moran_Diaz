@@ -15,7 +15,7 @@ Desarrollar una aplicación funcional (backend y frontend) en Python que aplique
 - Visualización de métricas del entrenamiento.
 - Pruebas con nuevos datos en tiempo real.
 
-## 🗂️ Documentacion del sistema
+## 🗂️ Documentación del sistema
 
 ## 📄 Documentación (One Drive)
 [Ver documentación](https://epnecuador-my.sharepoint.com/:f:/g/personal/brandon_moran_epn_edu_ec/EgYMpMq5qmNDvmUD0mXYMm8BJIXbUsQWYglU5tQo-VJuEw?e=0TvFGg)
