@@ -1,6 +1,6 @@
 # 🤖 Proyecto de Inteligencia Artificial - 2do Bimestre
 
-## 🧩 Integrantes
+## 👥 Integrantes
 - Mateo Moran 
 - Elkin Diaz 
 
