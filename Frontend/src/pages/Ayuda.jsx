@@ -40,7 +40,7 @@ const Ayuda = () => {
 
   return (
     <div className="min-h-screen bg-gray-50 text-gray-900">
-      {/* ===== Header igual a ConfiguracionIA ===== */}
+      {/* ===== Configuracion IA ===== */}
       <header className="bg-blue-900 text-white p-3 px-6 flex justify-between items-center shadow-md">
         <button
           onClick={() => navigate(-1)}
