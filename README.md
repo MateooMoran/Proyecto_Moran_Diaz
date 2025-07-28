@@ -1,4 +1,5 @@
 # 🤖 Proyecto de Inteligencia Artificial - 2do Bimestre
+## Jezt IA 🐉
 
 ## 👥 Integrantes
 - Mateo Moran 
