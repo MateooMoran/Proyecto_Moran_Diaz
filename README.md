@@ -14,8 +14,6 @@ Desarrollar una aplicación funcional (backend y frontend) en Python que aplique
 - Visualización de métricas del entrenamiento.
 - Pruebas con nuevos datos en tiempo real.
 
-## 🗂️ Estructura del Proyecto
-
 ## 🗂️ Documentacion del sistema
 
 📄 Documentación completa del sistema en el siguiente enlace:  
